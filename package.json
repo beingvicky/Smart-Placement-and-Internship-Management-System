@@ -1,0 +1,19 @@
+{
+  "name": "smart-internship-placement-system",
+  "version": "1.0.0",
+  "description": "Smart Internship & Placement Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "bcryptjs": "^2.4.3",
+    "sql.js": "^1.11.0"
+  },
+  "keywords": ["internship", "placement", "management"],
+  "author": "KodNest",
+  "license": "MIT"
+}
