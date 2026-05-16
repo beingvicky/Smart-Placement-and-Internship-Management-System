@@ -265,10 +265,6 @@ http://localhost:8080/internhub/
 
 ---
 
-## 👤 Author
 
-Built for internship demonstration purposes.
-
----
 
 *© 2024 Campus2Career. Not for production use without proper security hardening.*
